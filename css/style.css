@@ -1,0 +1,15 @@
+/* I am a comment. Waddup. */
+/* I reviewed HTML and CSS before starting this. It seems outdated as the links in the video are all still http:// instead of https://. */
+/* A few good websites to note are:
+https://www.w3schools.com/tags/ref_byfunc.asp
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+w3schools.com still notes <b> which you said is outdated though?
+
+Okay - back to business */
+
+p { font-size: 1cm; line-height: 1.5cm;}
+
+figcaption { font-weight: normal; font-size: 0.75cm; line-height: 1.5cm; font-family: Georgia, "New Times Roman", serif;}
+
+
